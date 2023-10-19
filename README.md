@@ -26,3 +26,8 @@ My name is WeZnokX, i'm an high school student currently living in France. I'm 1
       <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
   </div>
 </p>
+
+
+
+#### Profile views
+![Views](https://komarev.com/ghpvc/?username=WeZnokX)
