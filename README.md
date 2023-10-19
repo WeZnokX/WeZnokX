@@ -4,7 +4,7 @@ My name is WeZnokX, i'm an high school student currently living in France. I'm 1
 
 ## My languages
 
-# Languages that i'm using
+#### Languages that i'm currently using
 <br>
 <p>
   <div align="center">
@@ -12,5 +12,15 @@ My name is WeZnokX, i'm an high school student currently living in France. I'm 1
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </div>
+</p>
+
+#### Languages that i'm currently learning
+<br>
+<p>
+  <div align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/-CSharp-green?logo=csharp">
+      <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
   </div>
 </p>
