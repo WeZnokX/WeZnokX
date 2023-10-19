@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm WeZnokX, an IT student currently living in France. I've 19 years old and i'm currently learning cybersec and some new languages
+My name is WeZnokX, i'm an high school student currently living in France. I'm 19 years old and i'm currently learning cybersec and some new languages
 
-# My languages
+## My languages
 
 <br>
 
