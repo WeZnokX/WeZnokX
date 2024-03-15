@@ -30,9 +30,9 @@ My name is WeZnokX, i'm an high school student currently living in France. I'm 2
 
 #### My Hobbies
 
-- I like football and handball. I play handball in a club since I was a kid and today it's one of my proudest achievements that i've reached such a level that I currently have.
+- I like football and handball.
 - My favorite football club is Liverpool FC (my pfp lmao) 
-- I also like playing video games such as Counter-Strike, Rocket League, FIFA and Valorant in the past.
+- I also like playing video games such as Counter-Strike.
 
 #### Profile views
 ![Views](https://komarev.com/ghpvc/?username=WeZnokX)
